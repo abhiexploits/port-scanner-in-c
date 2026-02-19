@@ -1,0 +1,2 @@
+# port-scanner-in-c
+THIS IS BASIC PORT SCANNER WRITTEN IN C LANGUAGE 
